@@ -179,10 +179,4 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wtn6qwx4kaffmit2e2xhxz2oiu?theme=dark&spin=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
