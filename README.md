@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋! My name is Marceli Racis and I'm from Poland</h1>
+
+###
+
+<h2 align="center">I use it and I know how to use it:</h2>
 
 ###
 
@@ -150,6 +154,10 @@
 
 ###
 
+<h2 align="center">My Socials:</h2>
+
+###
+
 <div align="center">
   <a href="https://www.facebook.com/marceliracis" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="84" height="50" alt="facebook logo"  />
@@ -169,6 +177,12 @@
   <a href="https://x.com/Marcello1017off" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="84" height="50" alt="twitter logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wtn6qwx4kaffmit2e2xhxz2oiu)
 </div>
 
 ###
