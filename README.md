@@ -171,7 +171,7 @@
   <a href="MarcelloOFF" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="84" height="50" alt="discord logo"  />
   </a>
-  <a href="paypal.me/marceliracis" target="_blank">
+  <a href="https://paypal.me/marceliracis" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="84" height="50" alt="paypal logo"  />
   </a>
   <a href="https://x.com/Marcello1017off" target="_blank">
